@@ -1,1 +1,3 @@
-# MagicMirror3
+# MagicMirror-CatMirror2
+
+Project Wait For Start.
